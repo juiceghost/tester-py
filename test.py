@@ -1,2 +1,2 @@
 #hej
-interest = 10
+interest = 20
